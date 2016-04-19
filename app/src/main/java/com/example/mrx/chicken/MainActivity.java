@@ -67,6 +67,6 @@ public class MainActivity extends AppCompatActivity {
         textView.setText(""+x);
     }
     public int sum(int x, int y){
-        return x - y;
+        return x + y;
     }
 }
